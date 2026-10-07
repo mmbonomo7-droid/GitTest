@@ -8,3 +8,5 @@ const beans = {
         alert("yum");
     }
 };
+
+let boi = "cool";
